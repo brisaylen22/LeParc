@@ -1,0 +1,10 @@
+LE PARC: SUPERFICIES — sitio web
+
+Para abrir el sitio, descomprimí la carpeta y abrí index.html en un navegador.
+
+Archivos:
+- index.html: contenido y estructura.
+- style.css: estilos y adaptación a pantallas móviles.
+- assets/le-parc-lineas.png: lettering LE PARC en alta resolución.
+
+La tipografía Archivo se carga desde Google Fonts y las imágenes de las obras se sirven desde los sitios de las instituciones y el sitio oficial de Julio Le Parc. Para verlas, hace falta conexión a internet.
